@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id" translatable="false">1:XXXXXXXXXXXX:android:XXXXXXXXXXXX</string>
+    <string name="gcm_defaultSenderId" translatable="false">XXXXXXXXXXXX</string>
+    <string name="default_web_client_id" translatable="false">XXXXXXXXXXXXXXXXXXXXXXXX.apps.googleusercontent.com</string>
+    <string name="ga_trackingId" translatable="false" />
+    <string name="firebase_database_url" translatable="false">https://XXXXXXXX.firebaseio.com</string>
+    <string name="google_api_key" translatable="false">XXXXXXXXXXXXXXXXXXXXXXXX</string>
+    <string name="google_crash_reporting_api_key" translatable="false">XXXXXXXXXXXXXXXXXXXXXXXX</string>
+    <string name="project_id" translatable="false">XXXXXXXXXXXX</string>
+</resources>

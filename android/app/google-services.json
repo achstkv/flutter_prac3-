@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561563696082",
+    "project_id": "photostore-431cf",
+    "storage_bucket": "photostore-431cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561563696082:android:9926fab73cd806949ae60b",
+        "android_client_info": {
+          "package_name": "com.example.photoroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnwRvFATGq0AKZGVcLu5SXEldKJ31tf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
